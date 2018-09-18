@@ -5,7 +5,7 @@
   "author": "Buster Collings <busterc@gmail.com>",
   "homepage": "https://github.com/busterc/pickapart/pickapart",
   "repository": "busterc/pickapart",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "dist/pickapart.cjs.js",
   "module": "dist/pickapart.esm.js",
   "browser": "dist/pickapart.js",
